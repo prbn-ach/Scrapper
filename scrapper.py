@@ -1,8 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
 import json
-import csv
 
+import csv
 url = "http://books.toscrape.com"
 book_list=[]
 def scrapeBooks(url):
