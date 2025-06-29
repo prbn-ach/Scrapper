@@ -1,3 +1,19 @@
+#go to terminal
+#git config --global user.name "prbn-ach"
+#git config --global user.email "prabin.acharya.2002@gmail.com"
+
+#git init
+#git status 
+#git diff
+#git add .
+#git commit -m "What is changed"
+#copy paste git code from github
+
+#changed the code
+#git add .
+#git commit -m "what is changed"
+#git push
+
 import requests
 import json
 import csv
