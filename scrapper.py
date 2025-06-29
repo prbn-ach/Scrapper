@@ -6,8 +6,6 @@ from bs4 import BeautifulSoup
 
 url = "http://books.toscrape.com"
 
-
-
 def scrapeBooks(url):
     response = requests.get(url)
     if response.status_code != 200:
